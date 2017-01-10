@@ -6,15 +6,13 @@ p {
 	margin-bottom: 0;
 	font-size: 23px;
 	font-weight: 900;
+	border-bottom: 2px solid #d6d8db;
+	width: 30%;
+	padding-bottom: 5px;
 }
 
 img {
 	width: 30%;
 	float: left;
 	margin: 1.66%;
-}
-
-hr {
-	margin-left: 1.66%;
-	width: 33.3%;
 }
