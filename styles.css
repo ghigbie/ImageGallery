@@ -1,10 +1,6 @@
 /*this file was created in the terminal*/
-#one{
+img {
+	width: 30%;
 	float: left;
-
-}
-
-#two{
-	float: left;
-
+	margin: 1.66%;
 }
